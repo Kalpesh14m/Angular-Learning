@@ -9,8 +9,10 @@
 
 # dependencies
 /node_modules
-/hellong/node_modules
-/core-angular/node_modules
+/01-hellong/node_modules
+/02-core-angular/node_modules
+/03-counter-app/node_modules
+/04-word-generator/node_modules
 
 # profiling files
 chrome-profiler-events*.json
