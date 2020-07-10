@@ -9,14 +9,6 @@
 
 # dependencies
 /node_modules
-/01-hellong/node_modules
-/02-core-angular/node_modules
-/03-counter-app/node_modules
-/04-word-generator/node_modules
-/05-tic-tac-toe/node_modules
-/06-todo-app/node_modules
-/07-signup-reactive/node_modules
-/08-random-card-demo/node_modules
 
 # profiling files
 chrome-profiler-events*.json
@@ -52,4 +44,3 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
-
